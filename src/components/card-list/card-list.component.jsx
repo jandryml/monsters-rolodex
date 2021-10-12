@@ -9,5 +9,4 @@ export const CardList = (props) => (
             <Card key={monster.id} monster={monster}/>
         ))}
     </div>
-
 )
